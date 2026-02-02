@@ -36,7 +36,11 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Default Linux output
 a.out
+test
+
 
 # Debug files
 *.dSYM/
