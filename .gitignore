@@ -1,6 +1,11 @@
 # For this repo
 bin/
 out/
+test
+*.text
+
+# IDE
+.idea/
 
 # Prerequisites
 *.d
@@ -42,8 +47,6 @@ out/
 
 # Default Linux output
 a.out
-test
-
 
 # Debug files
 *.dSYM/
